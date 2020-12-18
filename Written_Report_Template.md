@@ -22,4 +22,4 @@ As the Goal increases the percentage of successful campaigns seems to decrease
 We do not know how the data were collected. Was there any reporting bias. Were successful campaigns more likely to be reported compared to failed ones and vice versa. 
 - What are some other possible tables and/or graphs that we could create?
 We could also look at outcomes by country (create a bar chart for different countries), by the number of backers (line chart with backers on the x-axis and percentage of successful/failed/canceled campaigns on the y-axis). 
-If we found any associations we could devle further to explore e.g. why certain campaigns were more successful in certain countries and whether campaigns followed the same trends associared with Launch Date in other countries as well. 
+If we found any associations we could devle further to explore e.g. why certain campaigns were more successful in certain countries and whether campaigns followed the same trends associated with Launch Date in other countries as well. 

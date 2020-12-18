@@ -11,12 +11,11 @@ The line chart shows the number of successful campaigns by month. The number of 
 ### Analysis of Outcomes Based on Goals
 The percentage of successsful outcomes steadily declined as the goal increased from $1000 to 34,999 and then increased for the 34,999-44,999 range and then dropped. The percentage of failed campaigns steadily increased as the goal increased from 1,000 to 29, 999, follwed by a decline between the 29,999 and 44,999 range and then increased again beyond 49, 999. 
 ### Challenges and Difficulties Encountered
-
+One of the challenges in comparing data across countries is that the goals and pledged amounts are in different currencies making it hard to compare data across countries. One of the ways to address this is to standardize everything into one currency e.g. US dollars or to simply observe the trends rather than the actual values. 
 ## Results
-
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 1) Campaigns launced between May-September are most successful. 
-2) very few campaigns are cancelled
+2) Very few campaigns are cancelled
 - What can you conclude about the Outcomes based on Goals?
 As the Goal increases the percentage of successful campaigns seems to decrease
 - What are some limitations of this dataset?

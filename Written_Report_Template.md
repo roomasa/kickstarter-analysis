@@ -1,9 +1,9 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Reviewing outcomes of different fund-raising campaigns
+The project is evaluating different fund-raising projects to help Louise make informed decisions regaridng her own fundraising campaign. 
 ### Purpose
-To know how different campaigns fared in relation to their launch dates and their funding goals
+To specifically evaluate how different campaigns fared in relation to their launch dates and their funding goals
 ## Analysis and Challenges
 In order to evaluate campaigns based on launch dates, I created pivot tables and chart to visualize the data. 
 ### Analysis of Outcomes Based on Launch Date
@@ -20,5 +20,7 @@ The percentage of successsful outcomes steadily declined as the goal increased f
 - What can you conclude about the Outcomes based on Goals?
 As the Goal increases the percentage of successful campaigns seems to decrease
 - What are some limitations of this dataset?
-
+We do not know how the data were collected. Was there any reporting bias. Were successful campaigns more likely to be reported compared to failed ones and vice versa. 
 - What are some other possible tables and/or graphs that we could create?
+We could also look at outcomes by country (create a bar chart for different countries), by the number of backers (line chart with backers on the x-axis and percentage of successful/failed/canceled campaigns on the y-axis). 
+If we found any associations we could devle further to explore e.g. why certain campaigns were more successful in certain countries and whether campaigns followed the same trends associared with Launch Date in other countries as well. 
